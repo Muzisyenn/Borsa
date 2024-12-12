@@ -1,0 +1,13 @@
+C:\Users\rizat\Desktop\petrol\Borsa\Borsa\Borsa\bin\Debug\Borsa.exe.config
+C:\Users\rizat\Desktop\petrol\Borsa\Borsa\Borsa\bin\Debug\Borsa.exe
+C:\Users\rizat\Desktop\petrol\Borsa\Borsa\Borsa\bin\Debug\Borsa.pdb
+C:\Users\rizat\Desktop\petrol\Borsa\Borsa\Borsa\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rizat\Desktop\petrol\Borsa\Borsa\Borsa\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rizat\Desktop\petrol\Borsa\Borsa\Borsa\obj\Debug\Borsa.csproj.AssemblyReference.cache
+C:\Users\rizat\Desktop\petrol\Borsa\Borsa\Borsa\obj\Debug\Borsa.Form1.resources
+C:\Users\rizat\Desktop\petrol\Borsa\Borsa\Borsa\obj\Debug\Borsa.Properties.Resources.resources
+C:\Users\rizat\Desktop\petrol\Borsa\Borsa\Borsa\obj\Debug\Borsa.csproj.GenerateResource.cache
+C:\Users\rizat\Desktop\petrol\Borsa\Borsa\Borsa\obj\Debug\Borsa.csproj.CoreCompileInputs.cache
+C:\Users\rizat\Desktop\petrol\Borsa\Borsa\Borsa\obj\Debug\Borsa.csproj.Up2Date
+C:\Users\rizat\Desktop\petrol\Borsa\Borsa\Borsa\obj\Debug\Borsa.exe
+C:\Users\rizat\Desktop\petrol\Borsa\Borsa\Borsa\obj\Debug\Borsa.pdb
